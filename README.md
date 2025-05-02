@@ -23,8 +23,6 @@ sudo usermod -aG docker $USER && newgrp docker
 
 ```bash
 git clone https://github.com/blancaise19/aztec-sequencer-node.git
-
-)
 cd aztec-sequencer-node
 ```
 

@@ -94,10 +94,11 @@ Feel free to open issues or submit pull requests if you find bugs or want to imp
 
 ## 👤 Author
 
-Created by 
+Created by blancaise19
 Feel free to reach out or follow for updates on Aztec testnet & tutorials!
-[VpAirdrop](https://twitter.com/VpAirdrop)  
 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/blancaise19?style=social)](https://twitter.com/VpAirdrop)
 
 
 ## ⚠️ Disclaimer

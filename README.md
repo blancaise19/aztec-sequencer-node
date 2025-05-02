@@ -91,12 +91,13 @@ docker image prune -af
 ## ✨ Contribute
 
 Feel free to open issues or submit pull requests if you find bugs or want to improve this setup.
+
 ## 👤 Author
 
-Created by [@blancaise19]
-https://twitter.com/blancaise19](https://x.com/VpAirdrop
-
+Created by 
 Feel free to reach out or follow for updates on Aztec testnet & tutorials!
+[VpAirdrop](https://twitter.com/VpAirdrop)  
+
 
 
 ## ⚠️ Disclaimer
